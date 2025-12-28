@@ -824,6 +824,15 @@ footer a {
   color: antiquewhite;
 }
 
+.thank-you-message {
+  text-decoration: none;
+  display: inline-block;
+  padding: 10px 20px;
+  background-color: white;
+  color: white;
+  border-radius: 20px;
+}
+
 @media screen and (min-width: 600px) {
   .container {
     display: grid;
