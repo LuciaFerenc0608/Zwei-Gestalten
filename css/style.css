@@ -453,9 +453,13 @@ header {
   width: 90%;
 }
 
+.menu ul {
+  padding: 0;
+  margin: 0 auto;
+}
+
 .menu li {
   text-align: center;
-  margin-right: 20px;
 }
 
 .menu a {
@@ -482,11 +486,13 @@ header {
 }
 
 .mobile-menu {
-  width: 90%;
   list-style: none;
-  padding-left: 10px auto;
   margin: 0 auto;
-  margin-top: 20px;
+  width: 90%;
+}
+
+.mobile-menu ul {
+  padding: 0;
 }
 
 .mobile-menu li {
