@@ -422,7 +422,7 @@ header {
   right: 10px;
   width: 35px;
   height: 35px;
-  background-color: white;
+  background-color: rgba(149, 254, 149, 0.781);
   border-radius: 20px;
 }
 .phone-number img {
@@ -474,7 +474,7 @@ header {
 }
 
 .menu a:hover {
-  background-color: grey;
+  background-color: rgba(149, 254, 149, 0.781);
   color: black;
   margin: 20px;
   border-radius: 20px;
@@ -510,7 +510,7 @@ header {
 }
 
 .mobile-menu a:hover {
-  background-color: grey;
+  background-color: rgba(149, 254, 149, 0.781);
   color: black;
   margin: 20px;
   border-radius: 20px;
@@ -570,7 +570,7 @@ header {
   margin: 20px;
   font-weight: 300;
   border-radius: 20px;
-  background-color: grey;
+  background-color: rgba(149, 254, 149, 0.781);
   padding: 3px;
 }
 .address p {
@@ -580,7 +580,7 @@ header {
 
 .social-media {
   width: 80%;
-  background-color: grey;
+  background-color: rgba(149, 254, 149, 0.781);
   border-radius: 20px;
   margin-top: 20px;
   padding: 5px;
@@ -596,7 +596,7 @@ header {
 }
 
 .social-media a {
-  color: white;
+  color: darkgreen;
   font-size: 20px;
   text-decoration: none;
 }
@@ -606,18 +606,18 @@ header {
   margin: 20px;
   font-weight: 400;
   text-align: center;
-  background-color: grey;
+  background-color: rgba(149, 254, 149, 0.781);
   border-radius: 20px;
   margin-bottom: 30px;
 }
 .numbermail a {
-  color: white;
+  color: darkgreen;
   text-decoration: none;
   font-size: 20px;
-  background-color: grey;
+  background-color: rgba(149, 254, 149, 0.781);
 }
 .numbermail strong {
-  color: white;
+  color: darkgreen;
 }
 
 /*kontakthtml*/
@@ -837,7 +837,7 @@ footer a {
   .container {
     display: grid;
     grid-template-columns: 1fr 1fr 1fr;
-    grid-template-rows: 1fr 1fr;
+    grid-template-rows: 1fr;
     align-items: center;
     gap: 20px;
     justify-items: center;
