@@ -599,7 +599,11 @@ header {
   text-decoration: none;
   color: white;
   font-size: 20px;
-  margin-right: 20px;
+  text-align: center;
+}
+
+.social-media li {
+  display: inline-block;
   text-align: center;
 }
 
@@ -607,7 +611,6 @@ header {
   color: darkgreen;
   font-size: 20px;
   text-decoration: none;
-  text-align: center;
 }
 
 .numbermail {

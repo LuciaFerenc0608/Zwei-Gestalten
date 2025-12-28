@@ -41,15 +41,18 @@
       text-decoration: none;
         color:colors.$primary;
         font-size: 20px;
-        margin-right: basic.$spacer;
+       
         text-align: center;
 }
+ .social-media li{
+    display: inline-block;
+    text-align: center;
+ }
 .social-media a{
     
     color:darkgreen;
     font-size:20px;
     text-decoration: none;
-    text-align: center;
 }
 
 .numbermail{
