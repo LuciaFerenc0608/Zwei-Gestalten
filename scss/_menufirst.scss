@@ -39,18 +39,20 @@
     .mobile-menu{
         width:90%;
       list-style: none;
-   padding-left: 10px;
+   padding-left: 10px auto;
     margin: 0 auto;
     margin-top: basic.$spacer;
     }
      .mobile-menu li{
+      list-style: none;
     text-align: center;
-    margin-right: basic.$spacer;
+    
     
     }
 
     .mobile-menu a {
     margin:0;
+    padding:0;
     text-align: center;
     display:block;
     text-decoration: none;
