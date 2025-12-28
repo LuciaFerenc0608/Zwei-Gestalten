@@ -495,6 +495,7 @@ header {
 }
 
 .mobile-menu a {
+  margin: auto;
   text-align: center;
   display: block;
   text-decoration: none;
@@ -599,6 +600,7 @@ header {
   color: darkgreen;
   font-size: 20px;
   text-decoration: none;
+  text-align: center;
 }
 
 .numbermail {
