@@ -1,9 +1,9 @@
 {
-  "name": "kdraumaustatter",
+  "name": "Zwei Gestalten",
   "version": "1.0.0",
-  "description": "A website for K&D Raumausstatter",
+  "description": "Zwei Gestalten",
   "main": "index.js",
-  "author": "Lucia Ferenc",
+  "author": "David Harrer",
   "scripts": {
     "sass": "node-sass scss/style.scss -o _site/css",
     "build": "npx @11ty/eleventy",
