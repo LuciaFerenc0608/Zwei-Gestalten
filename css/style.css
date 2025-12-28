@@ -560,7 +560,7 @@ header {
 }
 
 .contact-info {
-  width: 70%;
+  width: 80%;
   height: auto;
   display: flex;
   flex-wrap: wrap;
@@ -574,7 +574,7 @@ header {
 }
 
 .address {
-  width: 70%;
+  width: 80%;
   margin: 20px;
   font-weight: 300;
   border-radius: 20px;
